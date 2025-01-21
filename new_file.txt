@@ -1,0 +1,2 @@
+MY_VAR="Hi world!"
+echo "$MY_VAR"

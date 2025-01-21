@@ -1,3 +1,5 @@
 # bash_utils
 
-#Дата изменения: 21 января 2025 года
+#create random number from 1 to 100
+
+echo $((RANDOM % 100 + 1))

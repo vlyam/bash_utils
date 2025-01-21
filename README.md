@@ -5,5 +5,5 @@
 echo $((RANDOM % 100 + 1))
 
 
-git add README.md
+git add README.md  
 git commit -m "Добавлена дата последнего изменения в README"
